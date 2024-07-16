@@ -1,7 +1,7 @@
 # Blinkit_DeliveryApp_Analysis_Using_Tableau
 BlinkIt Delivery App Sales Analytics-  Real Time Tableau Project | Start to End Analysis |
 
-![image](https://github.com/user-attachments/assets/5b4b9b16-90e4-40e1-a136-3133d5e8e61c)
+![367cd4a3a1510bf52f1acbea26228a57](https://github.com/user-attachments/assets/550bf48e-9749-47b1-8cd2-982e006dfe55)
 
 ![Screenshot 2024-07-16 141442](https://github.com/user-attachments/assets/1f813b9f-a9af-45b0-902f-fd72fb4cbf5b)
 
